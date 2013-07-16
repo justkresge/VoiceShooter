@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">PushShot2</string>
+    <string name="app_name">Voice Shooter</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_splash">SplashActivity</string>
@@ -12,5 +12,6 @@
     <string name="helpbtntext">Help</string>
     <string name="scoresbtntext">Scores</string>
     <string name="playbtntext">Play</string>
+    <string name="title_activity_voice">VoiceActivity</string>
 
 </resources>

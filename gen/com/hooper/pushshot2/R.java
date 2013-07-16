@@ -43,6 +43,7 @@ public final class R {
         public static final int activity_menu=0x7f030002;
         public static final int activity_scores=0x7f030003;
         public static final int activity_splash=0x7f030004;
+        public static final int activity_voice=0x7f030005;
     }
     public static final class menu {
         public static final int help=0x7f080000;
@@ -50,6 +51,7 @@ public final class R {
         public static final int menu=0x7f080002;
         public static final int scores=0x7f080003;
         public static final int splash=0x7f080004;
+        public static final int voice=0x7f080005;
     }
     public static final class raw {
         public static final int iamasshole=0x7f040000;
@@ -69,6 +71,7 @@ public final class R {
         public static final int title_activity_menu=0x7f060004;
         public static final int title_activity_scores=0x7f060005;
         public static final int title_activity_splash=0x7f060003;
+        public static final int title_activity_voice=0x7f06000b;
     }
     public static final class style {
         /** 
