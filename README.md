@@ -1,7 +1,7 @@
-#Push Shot 
+#Voice Shooter
 
-This project is for the push version of the basketball app. 
+This project is for the speech rec. version of the basketball app. 
 
-Simple push "Miss" or "Make" to track shots.
+Simple Say "Miss" or "Make" to track shots.
 
-Edit in new branch 
+
